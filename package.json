@@ -1,0 +1,24 @@
+{
+  "name": "sudoku-solver",
+  "version": "1.0.0",
+  "description": "Lightweight app that uses gen-rec and backtracking to solve sudoku puzzles",
+  "main": "index.html",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/metakunal/Sudoku-Solver"
+  },
+  "keywords": [
+    "sudoku",
+    "genrec",
+    "backtracking"
+  ],
+  "author": "Kunal Yadav",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/metakunal/Sudoku-Solver"
+  },
+  "homepage": "https://github.com/metakunal/Sudoku-Solver/blob/main/README.md"
+}
