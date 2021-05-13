@@ -10,3 +10,5 @@ Start solving sudoku puzzles here and now!
 
 # Try it here and now!
 
+<a target = "_blank" href=https://metakunal.github.io/Sudoku-Solver/>Sudoku Solver/<a>
+
